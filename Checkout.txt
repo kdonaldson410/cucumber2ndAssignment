@@ -1,6 +1,6 @@
 Feature: Checkout
 
-Scenario: Checkout a the store
+Scenario: Checkout at the store
 Given a banana costs .40 cents
 And an apple costs .25 cents
 When scan 1 banana at checkout
